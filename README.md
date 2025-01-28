@@ -1,4 +1,4 @@
-# 360 Rotate Hack (multiplayer supported)
+# 360 Rotate Hack (only multiplayer supported)
 
 This cheat was made in a very rushed manner, and I didn’t put much effort into organizing it properly.  
 That's why you might see some questionable file names and project structure—sorry about that! ;D  
