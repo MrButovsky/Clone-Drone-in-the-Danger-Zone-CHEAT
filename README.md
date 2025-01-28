@@ -53,4 +53,3 @@ This plugin introduces an aimbot and automatic rotation functionality, allowing 
 ## Support
 
 If you encounter any problems or have any questions, write to me in the discord "blablablablah." or describe your problem in the issues tab.
-"# Clone-Drone-in-the-Danger-Zone-cheat-AIMBOT-TRACERS-TRIGGERBOT-" 
