@@ -1,5 +1,8 @@
 # 360 Rotate Hack
 
+This cheat was made in a very rushed manner, and I didn’t put much effort into organizing it properly.  
+That's why you might see some questionable file names and project structure—sorry about that! ;D  
+
 This plugin introduces an aimbot and automatic rotation functionality, allowing the player character to turn towards the nearest enemy in the game. It leverages the BepInEx library for game integration and Harmony for patching.
 
 ## Features
